@@ -1,0 +1,4 @@
+vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiVEFNSU5IUEhBVC5DT00iLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiLwn5OxVEFNSU5IUEhBVC5DT03wn6unIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiVEFNSU5IUEhBVC5DT00iLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiLEkMOjIFPhu60gROG7pW5nOiAwLzIwIEdCIFxyXG5I4bqhbiBT4butIEThu6VuZzogMDEtMDItMjAyNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+trojan://a571362a-7c46-4ea0-9828-10f6799b12d1@jp2.4gmienphi.asia:443?security=tls&headerType=none&type=tcp&sni=dl.kgvn.garenanow.com#%F0%9F%87%BB%F0%9F%87%B3+Gaming+TLS+443
+trojan://a571362a-7c46-4ea0-9828-10f6799b12d1@jp8.4gmienphi.asia:443?security=tls&headerType=none&type=tcp&sni=dl.kgvn.garenanow.com#%F0%9F%87%AF%F0%9F%87%B5+%5B4%5D+Gaming+JP+TLS+443
